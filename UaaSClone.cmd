@@ -1,0 +1,1 @@
+git clone https://dev-flextrialv3.scm.s1.umbraco.io/1fb9a672-fcca-49c7-bf6b-b5fecf4ef66d.git flextrial.Web
